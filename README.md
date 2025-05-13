@@ -17,7 +17,7 @@
 ## 📫 How to Reach Me
 
 - 📧 Email: **ksairuthik2004@gmail.com**
-- 💼 LinkedIn: [K Sai Ruthik](https://www.linkedin.com/in/k-sai-ruthik-516a32246/)
+- 💼 LinkedIn: [Kandimalla Sai Ruthik](https://www.linkedin.com/in/kandimalla-sai-ruthik-516a32246/)
 - 🌐 Portfolio: [ruthikportfolio.netlify.app](https://ruthikportfolio.netlify.app/)
 - 🔗 GitHub: [github.com/kagaha](https://github.com/kagaha)
 
