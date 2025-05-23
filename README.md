@@ -1,56 +1,57 @@
-<h1 align="center">Hi 👋, I'm K. Sai Ruthik</h1>
+<h1 align="center">Hi 👋, I'm Kandimalla Sai Ruthik</h1>
+<h3 align="center">Aspiring Full-Stack Developer | Java Enthusiast | Passionate Learner</h3>
 
 <p align="center">
-🚀 Student | Web Developer | Workaholic | Dedicated | Goal Oriented | Passionate to contribute to cool projects | Introvert | Big Dreams
+  <a href="mailto:ksairuthik2004@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/kandimalla-sai-ruthik-516a32246/">LinkedIn</a> •
+  <a href="https://github.com/kagaha">GitHub</a> •
+  <a href="https://ruthikportfolio.netlify.app/">Portfolio</a>
 </p>
 
-<br/>
+---
 
-## 🧑‍💻 About Me
+## 💡 About Me
 
-🎓 I’m a final-year Computer Science student at G. Pullaiah College of Engineering and Technology, Kurnool.  
-💡 I love building real-world projects and constantly strive to improve my technical and soft skills.  
-🎯 Passionate about Full Stack Development, Java, DSA, and contributing to impactful software.  
+🎓 I'm currently pursuing my B.Tech in *Computer Science and Engineering* at *G. Pullaiah College of Engineering and Technology*, Kurnool.
+
+⚙ I'm enthusiastic about *Full-Stack Development, solving real-world problems using **Java*, and exploring backend systems and RESTful APIs.
+
+🌱 I believe in continuous learning and enjoy working in collaborative environments where I can contribute and grow.
 
 ---
 
-## 📫 How to Reach Me
+## 🧠 Technical Skills
 
-- 📧 Email: **ksairuthik2004@gmail.com**
-- 💼 LinkedIn: [Kandimalla Sai Ruthik](https://www.linkedin.com/in/kandimalla-sai-ruthik-516a32246/)
-- 🌐 Portfolio: [ruthikportfolio.netlify.app](https://ruthikportfolio.netlify.app/)
-- 🔗 GitHub: [github.com/kagaha](https://github.com/kagaha)
-
----
-
-## 🧠 Courses I Have Studied
-
-- 🧵 Operating Systems  
-- 💡 Data Structures and Algorithms  
-- ⏱️ Design and Analysis of Algorithms  
-- 🕳️ Object Oriented Programming (OOP)  
-- 📬 Computer Networks  
-- 📁 Database Management Systems 
-- 🖥️ Web Development  
+- *Languages:* Java (Intermediate), C (Basics)
+- *Frontend:* HTML, CSS, JavaScript, React.js, Tailwind CSS
+- *Backend:* Node.js, Express.js
+- *Databases:* SQL, MongoDB, MongoDB Atlas
+- *Tools & Platforms:* GitHub, Git, Postman
 
 ---
 
-## 💼 Projects
+## 🛠 Projects
 
-### 🔹 Flipkart Clone  
-Tech Stack: React.js, Tailwind CSS, Node.js, Express.js, MongoDB  
-- Built full-stack Flipkart clone with user authentication, cart system, and REST APIs  
-🔗 [View on GitHub](https://github.com/kagaha/Flipkart-Project)
+### 🛒 [Flipkart Clone](https://github.com/kagaha/Flipkart-Project)
+Built a feature-rich Flipkart clone with:
+- User authentication & password reset
+- Individual cart per user
+- RESTful API integration using Node.js/Express
+- MongoDB Atlas for backend data storage
 
-### 🔹 Weather App  
-Tech Stack: React.js, Material UI, OpenWeather API  
-- Search and display real-time weather info with clean UI  
-🔗 [View on GitHub](https://github.com/kagaha/weather-app)
+### 🎮 [Simon Says Game](https://github.com/kagaha/JS-MiniProject-Simons-game-)
+A memory-based mini-game designed using *JavaScript*, focusing on enhancing player memory via sequential pattern challenges.
 
-### 🔹 Simon Says Game  
-Tech Stack: HTML, CSS, JavaScript  
-- Interactive memory game with scoring system  
-🔗 [View on GitHub](https://github.com/kagaha/JS-MiniProject-Simons-game-)
+### 🌐 [Personal Portfolio](https://github.com/kagaha/portfolio) | [Live Site](https://ruthikportfolio.netlify.app/)
+Created a sleek and responsive personal portfolio showcasing my skills, projects, and achievements.
+
+---
+
+## 🏆 Achievements & Certifications
+
+- ✅ Certified in *Java Programming* and *DSA using Java* – NPTEL
+- 🌐 Certified in *Full Stack Web Development* – AICTE Internship
+- 📚 Completed *Smart Interviews* course on Data Structures and Algorithms
 
 ---
 
@@ -70,22 +71,33 @@ Tech Stack: HTML, CSS, JavaScript
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🧑‍💼 Roles & Responsibilities
 
-- ✅ NPTEL Certified: Programming in Java, DSA using Java  
-- ✅ Full Stack Developer Internship - AICTE  
-- ✅ Completed Smart Interviews course on DSA (Sep 2023 - Mar 2024)
-
----
-
-## 📌 Leadership & Responsibilities
-
-- 📢 Class Representative for 3 years  
-- 🧑‍🏫 Organized and taught a 3-day bootcamp on C for juniors  
-- 🎯 Student Placement Coordinator  
+- 👨‍🏫 *Bootcamp Organizer*: Conducted a 3-day coding bootcamp for 1st-year students on platforms like HackerRank and CodeChef.
+- 🧑‍💼 *Class Representative*: Acted as liaison between faculty and students for coordination.
+- 🎯 *Placement Coordinator*: Helped manage placement activities and guide peers through the recruitment process.
 
 ---
+
+## 📈 GitHub Stats
 
 <p align="center">
-🛠️ Built with passion and coffee ☕ | Keep Building 🚀
+  <img src="https://github-readme-stats.vercel.app/api?username=kagaha&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kagaha&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kagaha&layout=compact&theme=tokyonight" />
 </p>
+
+---
+
+## 📬 Let's Connect
+
+- 📧 Email: ksairuthik2004@gmail.com  
+- 💼 LinkedIn: [K. Sai Ruthik](https://www.linkedin.com/in/k-sai-ruthik-516a32246/)  
+- 🧑‍💻 GitHub: [kagaha](https://github.com/kagaha)  
+- 🌐 Portfolio: [ruthikportfolio.netlify.app](https://ruthikportfolio.netlify.app/)
+
+---
+
+“Code is like humor. When you have to explain it, it’s bad.” – Cory House
