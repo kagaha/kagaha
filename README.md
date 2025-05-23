@@ -39,7 +39,7 @@ Built a feature-rich Flipkart clone with:
 - RESTful API integration using Node.js/Express
 - MongoDB Atlas for backend data storage
 
-### 🎮 [Simon Says Game](https://github.com/kagaha/JS-MiniProject-Simons-game-)
+### 🎮 [Simon Says Game](https://github.com/kagaha/JS-MiniProject-Simons-game-)  [Live Site](https://ruthikportfolio.netlify.app/js%20miniproject/)
 A memory-based mini-game designed using *JavaScript*, focusing on enhancing player memory via sequential pattern challenges.
 
 ### 🌐 [Personal Portfolio](https://github.com/kagaha/portfolio) | [Live Site](https://ruthikportfolio.netlify.app/)
